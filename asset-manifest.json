@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/capontes/charapasrally/static/css/main.fc66e83a.css",
-    "main.js": "/capontes/charapasrally/static/js/main.dc68acd8.js",
-    "static/js/453.6679a16c.chunk.js": "/capontes/charapasrally/static/js/453.6679a16c.chunk.js",
-    "index.html": "/capontes/charapasrally/index.html",
-    "main.fc66e83a.css.map": "/capontes/charapasrally/static/css/main.fc66e83a.css.map",
-    "main.dc68acd8.js.map": "/capontes/charapasrally/static/js/main.dc68acd8.js.map",
-    "453.6679a16c.chunk.js.map": "/capontes/charapasrally/static/js/453.6679a16c.chunk.js.map"
+    "main.css": "/charapasrally/static/css/main.fc66e83a.css",
+    "main.js": "/charapasrally/static/js/main.6112818d.js",
+    "static/js/453.6679a16c.chunk.js": "/charapasrally/static/js/453.6679a16c.chunk.js",
+    "index.html": "/charapasrally/index.html",
+    "main.fc66e83a.css.map": "/charapasrally/static/css/main.fc66e83a.css.map",
+    "main.6112818d.js.map": "/charapasrally/static/js/main.6112818d.js.map",
+    "453.6679a16c.chunk.js.map": "/charapasrally/static/js/453.6679a16c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc66e83a.css",
-    "static/js/main.dc68acd8.js"
+    "static/js/main.6112818d.js"
   ]
 }
